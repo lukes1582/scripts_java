@@ -1,0 +1,15 @@
+#####################################################
+# settings for the Artificial Intelligence 			#
+#####################################################
+
+# list of resources for the action of AI (origin to take the files)
+resources.txt
+
+# destination of the actions
+G:\\prova\\
+
+# destination of logs
+G:\\log\\
+
+# destination cut actions
+G:\\prova\\
